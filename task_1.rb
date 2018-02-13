@@ -66,17 +66,17 @@
 
 # 6. Chương trình để tráo đổi giá trị bởi sử dụng biến thứ ba
 print "Nhap so a: "
-#a = gets
-#a = a.to_i
-#print "Nhap so b: "
-#b = gets 
-#b = b.to_i
-#puts "so a truoc khi doi la:  #{a}"
-#puts "so b truoc khi doi la:  #{b}"
-#c = a
-#a = b
-#b = c 
-#puts "so a sau khi doi la: #{a}"
-#puts "so b sau khi doi la: #{b}"
+a = gets
+a = a.to_i
+print "Nhap so b: "
+b = gets 
+b = b.to_i
+puts "so a truoc khi doi la:  #{a}"
+puts "so b truoc khi doi la:  #{b}"
+c = a
+a = b
+b = c 
+puts "so a sau khi doi la: #{a}"
+puts "so b sau khi doi la: #{b}"
 
 
